@@ -1,4 +1,4 @@
-# LLMTrainingFramework
+# LLM Training Framework
 
 ## Data Preprocessing
 
