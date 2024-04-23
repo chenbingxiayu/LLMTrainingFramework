@@ -6,4 +6,6 @@ Bloom (https://github.com/bigscience-workshop/data-preparation)
 
 ## Training Framework
 
-Pythia (https://github.com/EleutherAI/pythia)
+Bloom (https://github.com/NVIDIA/Megatron-LM)
+
+Pythia (https://github.com/EleutherAI/gpt-neox)
